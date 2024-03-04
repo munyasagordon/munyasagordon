@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @munyasagordon
-- 👀 I’m interested in ... IOTs
-- 🌱 I’m currently learning ...Electrical and Electronics Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... munyasagordon@gmail.com
-- 😄 Pronouns: ...He
+- Hi, I’m @munyasagordon
+-  I’m interested in  IOTs
+-  I’m currently learning ...Electrical and Electronics Engineering
+-  How to reach me - munyasagordon@gmail.com
+- 😄 Pronouns: Him
 - ⚡ Fun fact: ... 
 
 <!---
