@@ -1,9 +1,10 @@
 - Hi, I’m @munyasagordon
 -  I’m interested in  IOTs
--  I’m currently learning ...Electrical and Electronics Engineering
+-  Anything electricity related count me in
+-  I'm an engineering Student 
 -  How to reach me - munyasagordon@gmail.com
 - 😄 Pronouns: Him
-- ⚡ Fun fact: ... 
+- Fact: The moon landing was staged 
 
 <!---
 munyasagordon/munyasagordon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
